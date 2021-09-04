@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(206, 111, 201);
+    text-align: center;
+    color:white ;
+}
+
+.container{
+    width: 30vw;
+    height: 70vh;
+      background-color: white;
+      margin: 10vh auto;
+      color:black;
+}
+img{
+    width: 70px;
+    height:70px;
+    border-radius: 100%;
+    
+}
+
+section{
+    display:flex;
+}
